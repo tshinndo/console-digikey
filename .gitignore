@@ -1,0 +1,7 @@
+# Directory
+Digikey/Debug/
+Digikey/Digikey/Debug/
+
+# Files
+*.sdf
+*.TMP
